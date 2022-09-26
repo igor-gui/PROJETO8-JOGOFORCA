@@ -73,5 +73,5 @@ main button {
 }
 
 .letra.clicada:hover {
-    background-color: black;
+    background-color: gray;
 }
